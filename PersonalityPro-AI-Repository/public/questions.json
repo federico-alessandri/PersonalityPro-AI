@@ -1,0 +1,842 @@
+[
+  {
+    "question_number": 1,
+    "text": "Worry about things.",
+    "trait": "N",
+    "facet": "N1_Anxiety",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 6,
+    "text": "Get angry easily.",
+    "trait": "N",
+    "facet": "N2_Anger",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 11,
+    "text": "Often feel blue.",
+    "trait": "N",
+    "facet": "N3_Depression",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 16,
+    "text": "Find it difficult to approach others.",
+    "trait": "N",
+    "facet": "N4_Self_Consciousness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 21,
+    "text": "Go on binges.",
+    "trait": "N",
+    "facet": "N5_Immoderation",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 26,
+    "text": "Panic easily.",
+    "trait": "N",
+    "facet": "N6_Vulnerability",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 31,
+    "text": "Fear for the worst.",
+    "trait": "N",
+    "facet": "N1_Anxiety",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 36,
+    "text": "Get irritated easily.",
+    "trait": "N",
+    "facet": "N2_Anger",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 41,
+    "text": "Feel desperate.",
+    "trait": "N",
+    "facet": "N3_Depression",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 46,
+    "text": "Feel uncomfortable around others.",
+    "trait": "N",
+    "facet": "N4_Self_Consciousness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 51,
+    "text": "Do things I later regret.",
+    "trait": "N",
+    "facet": "N5_Immoderation",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 56,
+    "text": "Feel that I'm unable to deal with things.",
+    "trait": "N",
+    "facet": "N6_Vulnerability",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 61,
+    "text": "Get stressed out easily.",
+    "trait": "N",
+    "facet": "N1_Anxiety",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 66,
+    "text": "Lose my temper.",
+    "trait": "N",
+    "facet": "N2_Anger",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 71,
+    "text": "Dislike myself.",
+    "trait": "N",
+    "facet": "N3_Depression",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 76,
+    "text": "Am not bothered by difficult social situations.",
+    "trait": "N",
+    "facet": "N4_Self_Consciousness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 81,
+    "text": "Resist temptations.",
+    "trait": "N",
+    "facet": "N5_Immoderation",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 86,
+    "text": "Remain calm under pressure.",
+    "trait": "N",
+    "facet": "N6_Vulnerability",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 91,
+    "text": "Am relaxed most of the time.",
+    "trait": "N",
+    "facet": "N1_Anxiety",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 96,
+    "text": "Rarely get irritated.",
+    "trait": "N",
+    "facet": "N2_Anger",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 101,
+    "text": "Seldom feel blue.",
+    "trait": "N",
+    "facet": "N3_Depression",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 106,
+    "text": "Am comfortable in unfamiliar situations.",
+    "trait": "N",
+    "facet": "N4_Self_Consciousness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 111,
+    "text": "Never spend more than I can afford.",
+    "trait": "N",
+    "facet": "N5_Immoderation",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 116,
+    "text": "Feel comfortable with myself.",
+    "trait": "N",
+    "facet": "N6_Vulnerability",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 2,
+    "text": "Make friends easily.",
+    "trait": "E",
+    "facet": "E1_Warmth",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 7,
+    "text": "Love large parties.",
+    "trait": "E",
+    "facet": "E2_Gregariousness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 12,
+    "text": "Take charge.",
+    "trait": "E",
+    "facet": "E3_Assertiveness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 17,
+    "text": "Am always busy.",
+    "trait": "E",
+    "facet": "E4_Activity",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 22,
+    "text": "Seek adventure.",
+    "trait": "E",
+    "facet": "E5_Excitement_Seeking",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 27,
+    "text": "Have a lot of fun.",
+    "trait": "E",
+    "facet": "E6_Positive_Emotions",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 32,
+    "text": "Love to chat.",
+    "trait": "E",
+    "facet": "E1_Warmth",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 37,
+    "text": "Enjoy being part of a group.",
+    "trait": "E",
+    "facet": "E2_Gregariousness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 42,
+    "text": "Express myself easily.",
+    "trait": "E",
+    "facet": "E3_Assertiveness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 47,
+    "text": "Do a lot in my spare time.",
+    "trait": "E",
+    "facet": "E4_Activity",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 52,
+    "text": "Enjoy wild flights of fantasy.",
+    "trait": "E",
+    "facet": "E5_Excitement_Seeking",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 57,
+    "text": "Laugh a lot.",
+    "trait": "E",
+    "facet": "E6_Positive_Emotions",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 62,
+    "text": "Warm up quickly to others.",
+    "trait": "E",
+    "facet": "E1_Warmth",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 67,
+    "text": "Like to stand out in a crowd.",
+    "trait": "E",
+    "facet": "E2_Gregariousness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 72,
+    "text": "Am skilled in handling social situations.",
+    "trait": "E",
+    "facet": "E3_Assertiveness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 77,
+    "text": "Like to take it easy.",
+    "trait": "E",
+    "facet": "E4_Activity",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 82,
+    "text": "Prefer to stick with things that I know.",
+    "trait": "E",
+    "facet": "E5_Excitement_Seeking",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 87,
+    "text": "Am not a cheerful optimist.",
+    "trait": "E",
+    "facet": "E6_Positive_Emotions",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 92,
+    "text": "Keep others at a distance.",
+    "trait": "E",
+    "facet": "E1_Warmth",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 97,
+    "text": "Avoid crowds.",
+    "trait": "E",
+    "facet": "E2_Gregariousness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 102,
+    "text": "Have little to say.",
+    "trait": "E",
+    "facet": "E3_Assertiveness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 107,
+    "text": "Like a leisurely lifestyle.",
+    "trait": "E",
+    "facet": "E4_Activity",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 112,
+    "text": "Dislike loud music.",
+    "trait": "E",
+    "facet": "E5_Excitement_Seeking",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 117,
+    "text": "Am often in a bad mood.",
+    "trait": "E",
+    "facet": "E6_Positive_Emotions",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 3,
+    "text": "Have a vivid imagination.",
+    "trait": "O",
+    "facet": "O1_Fantasy",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 8,
+    "text": "Believe in the importance of art.",
+    "trait": "O",
+    "facet": "O2_Aesthetics",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 13,
+    "text": "Experience my emotions intensely.",
+    "trait": "O",
+    "facet": "O3_Feelings",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 18,
+    "text": "Prefer variety to routine.",
+    "trait": "O",
+    "facet": "O4_Actions",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 23,
+    "text": "Love to think up new ways of doing things.",
+    "trait": "O",
+    "facet": "O5_Ideas",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 28,
+    "text": "Believe that there is no absolute right or wrong.",
+    "trait": "O",
+    "facet": "O6_Values",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 33,
+    "text": "Enjoy wild flights of fantasy.",
+    "trait": "O",
+    "facet": "O1_Fantasy",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 38,
+    "text": "See beauty in things that others might not notice.",
+    "trait": "O",
+    "facet": "O2_Aesthetics",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 43,
+    "text": "Feel others' emotions.",
+    "trait": "O",
+    "facet": "O3_Feelings",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 48,
+    "text": "Like to visit new places.",
+    "trait": "O",
+    "facet": "O4_Actions",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 53,
+    "text": "Am interested in abstract ideas.",
+    "trait": "O",
+    "facet": "O5_Ideas",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 58,
+    "text": "Tend to vote for liberal political candidates.",
+    "trait": "O",
+    "facet": "O6_Values",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 63,
+    "text": "Spend time reflecting on things.",
+    "trait": "O",
+    "facet": "O1_Fantasy",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 68,
+    "text": "Do not like poetry.",
+    "trait": "O",
+    "facet": "O2_Aesthetics",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 73,
+    "text": "Rarely notice my emotional reactions.",
+    "trait": "O",
+    "facet": "O3_Feelings",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 78,
+    "text": "Dislike changes.",
+    "trait": "O",
+    "facet": "O4_Actions",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 83,
+    "text": "Am not interested in theoretical discussions.",
+    "trait": "O",
+    "facet": "O5_Ideas",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 88,
+    "text": "Believe that we should be tough on crime.",
+    "trait": "O",
+    "facet": "O6_Values",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 93,
+    "text": "Do not have a good imagination.",
+    "trait": "O",
+    "facet": "O1_Fantasy",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 98,
+    "text": "Do not enjoy going to art museums.",
+    "trait": "O",
+    "facet": "O2_Aesthetics",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 103,
+    "text": "Am not easily affected by my emotions.",
+    "trait": "O",
+    "facet": "O3_Feelings",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 108,
+    "text": "Don't like the idea of change.",
+    "trait": "O",
+    "facet": "O4_Actions",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 113,
+    "text": "Avoid philosophical discussions.",
+    "trait": "O",
+    "facet": "O5_Ideas",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 118,
+    "text": "Believe that criminals should receive help rather than punishment.",
+    "trait": "O",
+    "facet": "O6_Values",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 4,
+    "text": "Trust others.",
+    "trait": "A",
+    "facet": "A1_Trust",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 9,
+    "text": "Use others for my own ends.",
+    "trait": "A",
+    "facet": "A2_Straightforwardness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 14,
+    "text": "Love to help others.",
+    "trait": "A",
+    "facet": "A3_Altruism",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 19,
+    "text": "Love a good fight.",
+    "trait": "A",
+    "facet": "A4_Compliance",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 24,
+    "text": "Believe that I am better than others.",
+    "trait": "A",
+    "facet": "A5_Modesty",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 29,
+    "text": "Feel sympathy for those who are worse off than myself.",
+    "trait": "A",
+    "facet": "A6_Tender_Mindedness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 34,
+    "text": "Believe that others have good intentions.",
+    "trait": "A",
+    "facet": "A1_Trust",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 39,
+    "text": "Tell the truth.",
+    "trait": "A",
+    "facet": "A2_Straightforwardness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 44,
+    "text": "Am concerned about others.",
+    "trait": "A",
+    "facet": "A3_Altruism",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 49,
+    "text": "Respect authority.",
+    "trait": "A",
+    "facet": "A4_Compliance",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 54,
+    "text": "Think highly of myself.",
+    "trait": "A",
+    "facet": "A5_Modesty",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 59,
+    "text": "Try not to think about the needy.",
+    "trait": "A",
+    "facet": "A6_Tender_Mindedness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 64,
+    "text": "Trust what people say.",
+    "trait": "A",
+    "facet": "A1_Trust",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 69,
+    "text": "Pretend to be concerned for others.",
+    "trait": "A",
+    "facet": "A2_Straightforwardness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 74,
+    "text": "Take time out for others.",
+    "trait": "A",
+    "facet": "A3_Altruism",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 79,
+    "text": "Insult people.",
+    "trait": "A",
+    "facet": "A4_Compliance",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 84,
+    "text": "Have a high opinion of myself.",
+    "trait": "A",
+    "facet": "A5_Modesty",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 89,
+    "text": "Am not interested in other people's problems.",
+    "trait": "A",
+    "facet": "A6_Tender_Mindedness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 94,
+    "text": "Distrust people.",
+    "trait": "A",
+    "facet": "A1_Trust",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 99,
+    "text": "Deceive people.",
+    "trait": "A",
+    "facet": "A2_Straightforwardness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 104,
+    "text": "Am indifferent to the feelings of others.",
+    "trait": "A",
+    "facet": "A3_Altruism",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 109,
+    "text": "Get back at others.",
+    "trait": "A",
+    "facet": "A4_Compliance",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 114,
+    "text": "Boast about my virtues.",
+    "trait": "A",
+    "facet": "A5_Modesty",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 119,
+    "text": "Am not interested in other people's problems.",
+    "trait": "A",
+    "facet": "A6_Tender_Mindedness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 5,
+    "text": "Complete tasks successfully.",
+    "trait": "C",
+    "facet": "C1_Competence",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 10,
+    "text": "Like order.",
+    "trait": "C",
+    "facet": "C2_Order",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 15,
+    "text": "Keep my promises.",
+    "trait": "C",
+    "facet": "C3_Dutifulness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 20,
+    "text": "Work hard.",
+    "trait": "C",
+    "facet": "C4_Achievement_Striving",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 25,
+    "text": "Control myself.",
+    "trait": "C",
+    "facet": "C5_Self_Discipline",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 30,
+    "text": "Think before I act.",
+    "trait": "C",
+    "facet": "C6_Deliberation",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 35,
+    "text": "Excel in what I do.",
+    "trait": "C",
+    "facet": "C1_Competence",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 40,
+    "text": "Continue until everything is perfect.",
+    "trait": "C",
+    "facet": "C2_Order",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 45,
+    "text": "Do what I say I will do.",
+    "trait": "C",
+    "facet": "C3_Dutifulness",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 50,
+    "text": "Put work above pleasure.",
+    "trait": "C",
+    "facet": "C4_Achievement_Striving",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 55,
+    "text": "Am able to control my cravings.",
+    "trait": "C",
+    "facet": "C5_Self_Discipline",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 60,
+    "text": "Consider the consequences of my actions.",
+    "trait": "C",
+    "facet": "C6_Deliberation",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 65,
+    "text": "Know how to get things done.",
+    "trait": "C",
+    "facet": "C1_Competence",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 70,
+    "text": "Like to tidy up.",
+    "trait": "C",
+    "facet": "C2_Order",
+    "keyed_direction": "+"
+  },
+  {
+    "question_number": 75,
+    "text": "Break my promises.",
+    "trait": "C",
+    "facet": "C3_Dutifulness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 80,
+    "text": "Put little time and effort into my work.",
+    "trait": "C",
+    "facet": "C4_Achievement_Striving",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 85,
+    "text": "Have difficulty controlling my impulses.",
+    "trait": "C",
+    "facet": "C5_Self_Discipline",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 90,
+    "text": "Jump into things without thinking.",
+    "trait": "C",
+    "facet": "C6_Deliberation",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 95,
+    "text": "Have little to contribute.",
+    "trait": "C",
+    "facet": "C1_Competence",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 100,
+    "text": "Leave a mess in my room.",
+    "trait": "C",
+    "facet": "C2_Order",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 105,
+    "text": "Break rules.",
+    "trait": "C",
+    "facet": "C3_Dutifulness",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 110,
+    "text": "Do just enough work to get by.",
+    "trait": "C",
+    "facet": "C4_Achievement_Striving",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 115,
+    "text": "Go on binges.",
+    "trait": "C",
+    "facet": "C5_Self_Discipline",
+    "keyed_direction": "-"
+  },
+  {
+    "question_number": 120,
+    "text": "Rush into things.",
+    "trait": "C",
+    "facet": "C6_Deliberation",
+    "keyed_direction": "-"
+  }
+]
